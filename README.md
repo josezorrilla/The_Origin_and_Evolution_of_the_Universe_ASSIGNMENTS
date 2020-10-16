@@ -2,4 +2,4 @@ Jupyter notebooks used as assignments for course: The Origin and Evolution of th
 
 These notebooks can be launched using binder.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/josezorrilla-th-rse_assignments-y52elxbb/tree)
+[![Binder](https://hub.gke2.mybinder.org/user/josezorrilla-th-rse_assignments-sw1w319v/notebooks)
