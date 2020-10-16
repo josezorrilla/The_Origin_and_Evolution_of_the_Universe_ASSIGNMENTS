@@ -1,0 +1,9 @@
+name: environment_the_origin_and_evolution_of_the_universe
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - astropy
+  - ipywidgets
