@@ -2,4 +2,4 @@ Jupyter notebooks used as assignments for course: The Origin and Evolution of th
 
 These notebooks can be launched using binder.
 
-[![Binder](https://hub.gke2.mybinder.org/user/josezorrilla-th-rse_assignments-sw1w319v/notebooks)]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josezorrilla/The_Origin_and_Evolution_of_the_Universe_ASSIGNMENTS.git/main)
