@@ -8,3 +8,4 @@ dependencies:
   - astropy
   - ipywidgets
   - scipy
+  - pycamb
